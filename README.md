@@ -24,6 +24,18 @@ The examples cover SwiftUI and UIKit, including navigation, content reflow, syst
 
 Root-owned selections keep navigation and configuration consistent as layouts change. SwiftData supplies the shared record store.
 
+## Demo video
+
+A walkthrough of AdaptiveDuoLab, showing content reflow, adaptive navigation, toolbar behavior and the interactive API examples.
+
+[▶ Watch the full demo](https://youtu.be/rzcijZY8b2M)) 
+
+| Demo | Video |
+| :--- | :--- |
+| Demo 1 | [▶ Watch video](https://github.com/user-attachments/assets/fc145bde-6764-4e14-81a5-5a6cca4f14c6) |
+| Demo 2 | [▶ Watch video](https://github.com/user-attachments/assets/956d38ea-0ac2-42ec-965c-594a3a86ff6b) |
+| Demo 3 | [▶ Watch video](https://github.com/user-attachments/assets/8eb8bc2b-6979-4902-8a6d-51da48f7baf5) |
+
 ## What I demonstrated
 
 ### Flexible layouts and content reflow
