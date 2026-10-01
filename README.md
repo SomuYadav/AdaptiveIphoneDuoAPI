@@ -162,11 +162,9 @@ See the [API adoption guide](Docs/API_Adoption_Guide.md) for the complete API, a
 
 1. Install [Xcode](https://developer.apple.com/xcode/) from [Apple Developer Downloads](https://developer.apple.com/download/).
 2. Open `AdaptiveDuoLab.xcworkspace` and select the **AdaptiveDuoLab** scheme.
-3. Use the **iOS 26 SDK or later** for the baseline build. The deployment target is **iOS 17**.
-4. For the full native Duo path, use **Xcode 27.1 / iOS 27.1 or later**, add `DUO_SDK` to **Active Compilation Conditions** and choose a compatible runtime.
+3. Use the **iOS 26 SDK or later** for the baseline build.
+4. For the full native Duo path, use **Xcode 27.1n**, add `DUO_SDK` to **Active Compilation Conditions** and choose a compatible runtime.
 5. Run the app and open **Settings → Open API Lab**.
-
-The camera preview requires a physical device and camera permission.
 
 ## Demo scope
 
