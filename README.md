@@ -4,7 +4,7 @@
 
 The demo project from my talk at the [Swift Bengaluru](https://www.linkedin.com/company/swiftbengaluru/) meetup, hosted by [PhonePe](https://www.linkedin.com/company/phonepe-internet/).
 
-Built by [Somendra Yadav](https://www.linkedin.com/in/somendrayadav/), Senior Software Engineer at Microsoft.
+[Somendra Yadav](https://www.linkedin.com/in/somendrayadav/), Senior Software Engineer at Microsoft.
 
 > Build for the available window space. Let content, local geometry and safe areas guide the layout while preserving the user's task.
 
