@@ -28,7 +28,7 @@ Root-owned selections keep navigation and configuration consistent as layouts ch
 
 A walkthrough of AdaptiveDuoLab, showing content reflow, adaptive navigation, toolbar behavior and the interactive API examples.
 
-[▶ Watch the full demo](https://youtu.be/rzcijZY8b2M)) 
+[▶ Watch the full demo](https://youtu.be/rzcijZY8b2M) 
 
 | Demo | Video |
 | :--- | :--- |
