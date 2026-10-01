@@ -30,11 +30,30 @@ A walkthrough of AdaptiveDuoLab, showing content reflow, adaptive navigation, to
 
 [▶ Watch the full demo](https://youtu.be/rzcijZY8b2M) 
 
-| Demo | Video |
-| :--- | :--- |
-| Demo 1 | [▶ Watch video](https://github.com/user-attachments/assets/fc145bde-6764-4e14-81a5-5a6cca4f14c6) |
-| Demo 2 | [▶ Watch video](https://github.com/user-attachments/assets/956d38ea-0ac2-42ec-965c-594a3a86ff6b) |
-| Demo 3 | [▶ Watch video](https://github.com/user-attachments/assets/8eb8bc2b-6979-4902-8a6d-51da48f7baf5) |
+<table>
+  <tr>
+    <th>Demo 1</th>
+    <th>Demo 2</th>
+    <th>Demo 3</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <video width="240" height="360" controls
+        src="https://github.com/user-attachments/assets/fc145bde-6764-4e14-81a5-5a6cca4f14c6">
+      </video>
+    </td>
+    <td align="center">
+      <video width="240" height="360" controls
+        src="https://github.com/user-attachments/assets/956d38ea-0ac2-42ec-965c-594a3a86ff6b">
+      </video>
+    </td>
+    <td align="center">
+      <video width="240" height="360" controls
+        src="https://github.com/user-attachments/assets/8eb8bc2b-6979-4902-8a6d-51da48f7baf5">
+      </video>
+    </td>
+  </tr>
+</table>
 
 ## What I demonstrated
 
