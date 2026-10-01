@@ -147,14 +147,15 @@ Open **Settings → Open API Lab**.
 
 | Interactive route | Implementation |
 | --- | --- |
-| System layout and regions | [SystemArrangementDemo.swift](Sources/Views/SystemArrangementDemo.swift) |
-| SwiftUI toolbar actions | [ToolbarAPIDemo.swift](Sources/Views/ToolbarAPIDemo.swift) |
-| Tabs and sidebar | [TabAPIDemo.swift](Sources/Views/TabAPIDemo.swift) |
-| Reflow and concentric corners | [LayoutAPIDemo.swift](Sources/Views/LayoutAPIDemo.swift) |
-| UIKit layout and navigation | [UIKitAPIDemo.swift](Sources/Views/UIKitAPIDemo.swift) |
-| UIKit toolbar actions | [UIKitToolbarAPIDemo.swift](Sources/Views/UIKitToolbarAPIDemo.swift) |
-| Sheets and presentations | [PresentationAPIDemo.swift](Sources/Views/PresentationAPIDemo.swift) |
-| Camera accessory | [CameraAPIDemo.swift](Sources/Views/CameraAPIDemo.swift) |
+| System layout and regions | [SystemArrangementDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/SystemArrangementDemo.swift) |
+| SwiftUI toolbar actions | [ToolbarAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/ToolbarAPIDemo.swift) |
+| Tabs and sidebar | [TabAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/TabAPIDemo.swift) |
+| Reflow and concentric corners | [LayoutAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/LayoutAPIDemo.swift) |
+| UIKit layout and navigation | [UIKitAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/UIKitAPIDemo.swift) |
+| UIKit toolbar actions | [UIKitToolbarAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/UIKitToolbarAPIDemo.swift) |
+| Sheets and presentations | [PresentationAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/PresentationAPIDemo.swift) |
+| Camera accessory | [CameraAPIDemo.swift](https://github.com/SomuYadav/AdaptiveIphoneDuoAPI/blob/main/AdaptiveDuoLab/Sources/Views/CameraAPIDemo.swift) |
+
 
 See the [API adoption guide](Docs/API_Adoption_Guide.md) for the complete API, availability and fallback mapping.
 
